@@ -5,5 +5,5 @@ This repository contains my configs for Hyperland.
 
 hypr dependencies:
 ```bash
-sudo pacman -S hyprland hyprpaper hyprlock hyprsunset waybar
+sudo pacman -S hyprland hyprpaper hyprlock hyprsunset waybar hyprshot
 ```
